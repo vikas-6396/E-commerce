@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vikas-6396/E-commerce.git/static/css/main.116b71e7.css",
-    "main.js": "/vikas-6396/E-commerce.git/static/js/main.9faa0272.js",
+    "main.js": "/vikas-6396/E-commerce.git/static/js/main.c1a8b81c.js",
     "static/media/exclusive_image.png": "/vikas-6396/E-commerce.git/static/media/exclusive_image.106b18cb9fc2d7c7a6f4.png",
     "static/media/hero_image.png": "/vikas-6396/E-commerce.git/static/media/hero_image.932ea95a8c6d086c8792.png",
     "static/media/banner_women.png": "/vikas-6396/E-commerce.git/static/media/banner_women.ed17feab10004e619fce.png",
@@ -46,10 +46,10 @@
     "static/media/hand_icon.png": "/vikas-6396/E-commerce.git/static/media/hand_icon.6a8b7a8b21d7f75d84da.png",
     "index.html": "/vikas-6396/E-commerce.git/index.html",
     "main.116b71e7.css.map": "/vikas-6396/E-commerce.git/static/css/main.116b71e7.css.map",
-    "main.9faa0272.js.map": "/vikas-6396/E-commerce.git/static/js/main.9faa0272.js.map"
+    "main.c1a8b81c.js.map": "/vikas-6396/E-commerce.git/static/js/main.c1a8b81c.js.map"
   },
   "entrypoints": [
     "static/css/main.116b71e7.css",
-    "static/js/main.9faa0272.js"
+    "static/js/main.c1a8b81c.js"
   ]
 }
